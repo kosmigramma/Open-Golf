@@ -31,6 +31,11 @@ A cross-platform minigolf game written in C.
 
 - To start the game run `out/linux/golf`
 
+## OSX
+- To compile run `./build/build-osx.sh`
+
+- To start the game run `out/osx/golf`
+
 ## 3rd Party Libraries
 - [cembed](https://github.com/rxi/cembed)
 - [cimgui](https://github.com/cimgui/cimgui)
@@ -38,7 +43,7 @@ A cross-platform minigolf game written in C.
 - [glfw](https://github.com/glfw/glfw)
 - [glslcc](https://github.com/septag/glslcc)
 - [imgui](https://github.com/ocornut/imgui)
-- [Kenny Art Assets](https://kenney.nl/assets)
+- [Kenney Art Assets](https://kenney.nl/assets)
 - [lightmapper](https://github.com/ands/lightmapper)
 - [mattiasgustavsson/libs](https://github.com/mattiasgustavsson/libs)
 - [miniz](https://github.com/richgel999/miniz)
