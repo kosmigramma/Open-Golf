@@ -3,4 +3,4 @@ services:
   opengolf:
     build: .
     volumes:
-      - ./:/app
+      - ./out/:/app/out/
